@@ -5,4 +5,4 @@ Open index.php to view the custom dashboard.
 * Pipe the stats from external source to a graphic display,
 * Pipe a twitter / security feed into an RSS type feed,
 * Potentially alter and assign unique refresh times per segment/module,
-* Test and deploy (initial prototype)
+* Test and deploy (initial prototype).
