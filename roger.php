@@ -13,7 +13,7 @@ error_reporting(E_ALL);
 	//$headers = array(
 		///'Accept: application/json',
 		//'Content-type: application/json',		
-		//'X-ApiKeys: accessKey=88ec91a1e4a54925ba36afbf9ca7ef40149466c10e609de2253d4e8fa99f2e05; secretKey=353b24944027ea64cbf85ce5bf75d0db5f6f67014598e4568062d00b51d5e675;',
+		//'X-ApiKeys: accessKey=value1; secretKey=value2;',
 	//);
 	// X-ApiKeys is dependant on not being regenerated from nessus. If access is revoked, revise the access and secret key.
         //$url = "https://192.168.1.230:8834/scans/107";    
